@@ -1,6 +1,6 @@
 # START SEO BLOCK
 # ---------------------
-User-agent: *
+User-agent:*
 Disallow:
 
 Sitemap: http://hiringpakistan.netlify.app/sitemap_index.xml
